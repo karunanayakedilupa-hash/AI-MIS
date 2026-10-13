@@ -1,0 +1,36 @@
+{
+ "v": 1,
+ "users": [
+  {
+   "u": "CDilupa",
+   "r": "admin",
+   "salt": "q9rPVp52JVUQHPiwP6Fjgw==",
+   "iv": "v+2zrFFZ08AeCZqJ",
+   "ct": "IyWZYTCUoDc4Sx0kqezwYsufyBbCIOg87WSiQ+9J07U0MeCOzgcDKE5HtsGLxX8MTLB+wQFkCDTZIUGJrEpZyGBGSJYnbVCPntQh9vI8fRdvXZcZDE+ajsSOwasDapkVmCup6T95AwX7GJVVbg=="
+  },
+  {
+   "u": "SYSView",
+   "r": "viewonly",
+   "pg": [
+    "dash",
+    "tickets",
+    "machines",
+    "ups",
+    "maintenance",
+    "breakdowns",
+    "diodes",
+    "parts"
+   ],
+   "salt": "OmHrq4AtDbXigZkOU0XLvQ==",
+   "iv": "NoFk8vgrVePCfBa0",
+   "ct": "Wyk8QOGqZkZ5ZGI+ELkDW7uQG83zmqwXTEjdNRcnt8j65fNn6nSw2HMUNjQyJF0gmdU3SC296uxU+zE2v9Q3nJX83qeZDshJB0sUUl4+eFX3n30Tf2/nhauezN1IrNsdlfcXiPJFW0IlrxUYrg=="
+  },
+  {
+   "u": "MCUser",
+   "r": "worker",
+   "salt": "HCE72iatsJNqHiMcRDz7TA==",
+   "iv": "rRHFsrDJFU+K2N0e",
+   "ct": "06QuVEEdgpzzV/s4mxmybaeNLEa1A5fKflTp0SVSJT8pf28XtFkUFRVUTNEBMJ8rTOtc/CUEf4hEBCJVXxzKGWKVpQm59YSTUcErcOSALpfAcitsUjK9XqbDF8yWHhqPJMqDiNepRMpajnFJLA=="
+  }
+ ]
+}
